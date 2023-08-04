@@ -100,7 +100,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.242.67.82:8081/repository/pay-release/</url>
+	      <url>http://54.242.67.82:8081/repository/pay-snapp/</url>
 	    </snapshotRepository>
 		
 	</distributionManagement>
